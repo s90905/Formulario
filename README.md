@@ -22,7 +22,8 @@ En caso que la persona encargada, esté Editando un registro y modifique la céd
 - ✅ Navegador web.
 - ✅ phpMyAdmin para gestionar la base de datos.
 
- Ejemplo de Avisos en el formulario:
+
+ `Ejemplo de Avisos en el formulario (amarillo y rojo), en el momento de editar un registro y cambiar el número de cédula por uno que ya está registrado en otra fila:`
 
  ![image](https://github.com/user-attachments/assets/b0daf1d3-4acc-4ae7-810e-fb2e1485a251)
 
