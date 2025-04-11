@@ -29,7 +29,7 @@ En caso que la persona encargada, esté Editando un registro y modifique la céd
 
 
 
-**Visualización del Formulario y la Tabla:**
+**Visualización del Formulario y la Tabla con su respectivo Scroll:**
 
 ![1ra visualización](https://github.com/user-attachments/assets/6529b7bf-2fa9-4576-8a8c-c29577808960)
 
